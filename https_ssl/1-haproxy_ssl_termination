@@ -48,4 +48,4 @@ frontend ninette-frontend-https
 backend ninette-backend
         balance roundrobin
         server 6215-web-01 54.196.217.53:80 check
-        server 6215-web-02 52.204.174.223:80 check
+        server 6215-web-02 52.204.174.223:80 check
